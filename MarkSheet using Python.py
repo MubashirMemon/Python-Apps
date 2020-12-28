@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # MarkSheet App uisng Python3.
-# 
-
-# In[ ]:
 
 
 
@@ -64,10 +58,5 @@ while True:
     result = input(text)
     if result.strip()=='Exit':
         break
-
-
-# In[ ]:
-
-
 
 
